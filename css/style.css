@@ -383,7 +383,7 @@ header {
 }
 .newsletter-form-submit {
   width: 115px;
-  background: #0013FF;
+  background-color: #0013FF;
   color: #FFFFFF;
   border: 1px solid #0013FF;
   box-sizing: border-box;
@@ -486,7 +486,7 @@ header {
   margin-bottom: 16px;
 }
 .footer-icon {
-  fill: "black";
+  fill: black;
 }
 .social-text {
   display: flex;
